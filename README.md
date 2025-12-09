@@ -76,12 +76,12 @@ I believe these adjustments will help reduce margin leakage, improve cross-regio
 
 ### Next Steps:
 
-Integrate real-time data sources for automated dashboard refresh.
+📌 Integrate real-time data sources for automated dashboard refresh.
 
-Implement predictive analytics for forecasting sales & profit trends.
+📌 Implement predictive analytics for forecasting sales & profit trends.
 
-Add drill-down features for segment and SKU-level analysis.
+📌 Add drill-down features for segment and SKU-level analysis.
 
-Create executive alerts for KPI thresholds.
+📌 Create executive alerts for KPI thresholds.
 
-Develop a mobile-optimized dashboard version.
+📌 Develop a mobile-optimized dashboard version.
