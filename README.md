@@ -30,7 +30,7 @@
 
 -  Validation of YoY metrics and cross-filter interactions.
 
-#### Skills:
+### Skills:
 
 - SQL (aggregation, grouping, KPI calculations)
 
