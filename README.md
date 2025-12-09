@@ -1,6 +1,6 @@
 # Revenue Growth & Profitability Insights for retail 
 
-### Executive Summary
+### Executive Summary:
 
 <p align ="justify"> Using SQL, Excel, and Power BI, I analyzed Superstore performance data and built a dashboard to track sales, profit, and order trends across regions, segments, and product categories. After identifying that the largest revenue opportunities come from strengthening high-performing categories, optimizing regional performance, and improving profit ratio, I recommend that the commercial and product teams implement several adjustments that will support higher growth:</p>
 
@@ -10,7 +10,7 @@
 
 -  Improve inventory planning for top-selling sub-categories
 
-### Business Problem
+### Business Problem:
 
 <p align="justify"> The company lacked a unified and interactive performance dashboard that could consolidate sales, profit, and customer segmentation data. Decision-makers needed clear visibility into regional trends, high-value categories, and YoY performance to support strategic planning and operational optimization. </p>
 
@@ -18,7 +18,7 @@
 
 <img width="1536" height="889" alt="other completecion" src="https://github.com/user-attachments/assets/cec16a5f-63c9-4554-8eea-1d6d59978a1b" />
 
-### Methodology 
+### Methodology: 
 
 -  Extraction and transformation of Superstore data using SQL queries.
 
