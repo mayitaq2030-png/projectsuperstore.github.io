@@ -1,0 +1,11 @@
+Dashboard Construction Details:
+1. Import the Superstore dataset into your BI tool (Power BI, Tableau, Looker).
+2. Create KPIs: Total Sales, Total Profit, Total Orders, Profit Ratio.
+3. Build visualizations:
+   - Sales by Region (Bar/Map)
+   - Sales by Segment (Donut Chart)
+   - Sales by Category (Column Chart)
+   - Sales by State (Filled Map)
+   - Sales by Sub-Category (Dot Matrix)
+4. Apply YoY calculations using DAX or calculated fields.
+5. Design the layout following the prototype from the PDF.
