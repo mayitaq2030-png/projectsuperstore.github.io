@@ -2,7 +2,7 @@
 
 ### Executive Summary
 
-<p style="text-align: justify;"> Using SQL, Excel, and Power BI, I analyzed Superstore performance data and built a dashboard to track sales, profit, and order trends across regions, segments, and product categories. After identifying that the largest revenue opportunities come from strengthening high-performing categories, optimizing regional performance, and improving profit ratio, I recommend that the commercial and product teams implement several adjustments that will support higher growth:</p>
+<p align ="justify"> Using SQL, Excel, and Power BI, I analyzed Superstore performance data and built a dashboard to track sales, profit, and order trends across regions, segments, and product categories. After identifying that the largest revenue opportunities come from strengthening high-performing categories, optimizing regional performance, and improving profit ratio, I recommend that the commercial and product teams implement several adjustments that will support higher growth:</p>
 
 -  Adjust pricing and discount strategy in low–profit ratio categories
 
@@ -12,7 +12,7 @@
 
 ### Business Problem
 
-<p style="text-align: justify;"> The company lacked a unified and interactive performance dashboard that could consolidate sales, profit, and customer segmentation data. Decision-makers needed clear visibility into regional trends, high-value categories, and YoY performance to support strategic planning and operational optimization. </p>
+<p align="justify"> The company lacked a unified and interactive performance dashboard that could consolidate sales, profit, and customer segmentation data. Decision-makers needed clear visibility into regional trends, high-value categories, and YoY performance to support strategic planning and operational optimization. </p>
 
 #### Order completion for chart 
 
@@ -32,21 +32,22 @@
 
 #### Skills:
 
-🔥 SQL (aggregation, grouping, KPI calculations)
+- SQL (aggregation, grouping, KPI calculations)
 
-🔥 Excel (data dictionary, structure validation)
+- Excel (data dictionary, structure validation)
 
-🔥 BI tools (Power BI / Tableau / Looker)
+- BI tools (Power BI / Tableau / Looker)
 
-🔥 Data modeling & ETL
+- Data modeling & ETL
 
-🔥 Dashboard UI/UX design principles
+- Dashboard UI/UX design principles
 
-🔥 Analytical storytelling
+- Analytical storytelling
 
 ### Results & Business Recommendations:
 
-<p style="text-align: justify;"> Creating a dashboard to analyze Superstore performance gives commercial and executive teams clear visibility into sales, profit, and customer behavior across regions and product categories. By democratizing this data, stakeholders can now self-serve insights, reducing ad-hoc requests by more than 5 hours per week. The analysis revealed strong YoY growth in sales and orders, but a 4.4% decline in profit ratio driven by margin pressure in key categories. Regional performance showed California and New York as primary revenue drivers, while central states lag behind. Forecasting models indicate that increasing sales of top sub-categories by 1% could generate £380–£450 in additional daily revenue, and improving profit ratio by 1% could add roughly £520 per day. </p>
+<p align="justify"> 
+Creating a dashboard to analyze Superstore performance gives commercial and executive teams clear visibility into sales, profit, and customer behavior across regions and product categories. By democratizing this data, stakeholders can now self-serve insights, reducing ad-hoc requests by more than 5 hours per week. The analysis revealed strong YoY growth in sales and orders, but a 4.4% decline in profit ratio driven by margin pressure in key categories. Regional performance showed California and New York as primary revenue drivers, while central states lag behind. Forecasting models indicate that increasing sales of top sub-categories by 1% could generate £380–£450 in additional daily revenue, and improving profit ratio by 1% could add roughly £520 per day. </p>
 
 <img width="755" height="390" alt="image" src="https://github.com/user-attachments/assets/217ed0f0-9213-4686-9cca-207f46f2e67a" />
 
@@ -60,7 +61,8 @@
 
 ✅ Sub-category analysis highlights Phones, Chairs, and Binders as top contributors.
 
-<p style="text-align: justify;"> Because the strongest revenue opportunities come from improving profit ratio, strengthening high-performing categories, and optimizing underperforming regions, I recommend a few strategic adjustments:
+<p align="justify"> 
+Because the strongest revenue opportunities come from improving profit ratio, strengthening high-performing categories, and optimizing underperforming regions, I recommend a few strategic adjustments:
 
 Increase targeted promotions in top-performing sub-categories (Phones, Chairs, Binders) to capitalize on high conversion and strong YoY demand.
 
